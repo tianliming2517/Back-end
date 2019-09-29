@@ -1,0 +1,962 @@
+[
+  {
+    "country": "China",
+    "areaCode": "86"
+  },
+  {
+    "country": "Albania",
+    "areaCode": "355"
+  },
+  {
+    "country": "Algeria",
+    "areaCode": "213"
+  },
+  {
+    "country": "Afghanistan",
+    "areaCode": "93"
+  },
+  {
+    "country": "Argentina",
+    "areaCode": "54"
+  },
+  {
+    "country": "United Arab Emirates Arabia",
+    "areaCode": "971"
+  },
+  {
+    "country": "Aruba",
+    "areaCode": "297"
+  },
+  {
+    "country": "Oman",
+    "areaCode": "968"
+  },
+  {
+    "country": "Azerbaijan",
+    "areaCode": "994"
+  },
+  {
+    "country": "Ascension",
+    "areaCode": "247"
+  },
+  {
+    "country": "Egypt",
+    "areaCode": "20"
+  },
+  {
+    "country": "Ethiopia",
+    "areaCode": "251"
+  },
+  {
+    "country": "Ireland",
+    "areaCode": "353"
+  },
+  {
+    "country": "Estonia",
+    "areaCode": "372"
+  },
+  {
+    "country": "Andorra",
+    "areaCode": "376"
+  },
+  {
+    "country": "Angola",
+    "areaCode": "1264"
+  },
+  {
+    "country": "Anguilla",
+    "areaCode": "244"
+  },
+  {
+    "country": "The island of Antigua and barbuda",
+    "areaCode": "1268"
+  },
+  {
+    "country": "Australia",
+    "areaCode": "61"
+  },
+  {
+    "country": "Austria",
+    "areaCode": "43"
+  },
+  {
+    "country": "The Oran islands",
+    "areaCode": ""
+  },
+  {
+    "country": "Barbados",
+    "areaCode": "1246"
+  },
+  {
+    "country": "Papua New Guinea",
+    "areaCode": "675"
+  },
+  {
+    "country": "Bahamas",
+    "areaCode": "1809"
+  },
+  {
+    "country": "Pakistan",
+    "areaCode": "92"
+  },
+  {
+    "country": "Paraguay",
+    "areaCode": "595"
+  },
+  {
+    "country": "Palestine",
+    "areaCode": "930"
+  },
+  {
+    "country": "Bahrain",
+    "areaCode": "973"
+  },
+  {
+    "country": "Panama",
+    "areaCode": "507"
+  },
+  {
+    "country": "Brazil",
+    "areaCode": "55"
+  },
+  {
+    "country": "Belarus",
+    "areaCode": "375"
+  },
+  {
+    "country": "Bermuda",
+    "areaCode": "1441"
+  },
+  {
+    "country": "Bulgaria",
+    "areaCode": "359"
+  },
+  {
+    "country": "The Northern Mariana islands",
+    "areaCode": "1670"
+  },
+  {
+    "country": "Benin",
+    "areaCode": "229"
+  },
+  {
+    "country": "Belgium",
+    "areaCode": "32"
+  },
+  {
+    "country": "Iceland",
+    "areaCode": "354"
+  },
+  {
+    "country": "Puerto Rico",
+    "areaCode": "1787"
+  },
+  {
+    "country": "Poland",
+    "areaCode": "48"
+  },
+  {
+    "country": "Bolivia",
+    "areaCode": "591"
+  },
+  {
+    "country": "Bosnia and herzegovina",
+    "areaCode": "387"
+  },
+  {
+    "country": "Botswana",
+    "areaCode": "267"
+  },
+  {
+    "country": "Belize",
+    "areaCode": "501"
+  },
+  {
+    "country": "Bhutan",
+    "areaCode": "975"
+  },
+  {
+    "country": "Burkina Faso",
+    "areaCode": "226"
+  },
+  {
+    "country": "Burundi",
+    "areaCode": "257"
+  },
+  {
+    "country": "Bouvet island",
+    "areaCode": ""
+  },
+  {
+    "country": "North Korea",
+    "areaCode": "850"
+  },
+  {
+    "country": "Denmark",
+    "areaCode": "45"
+  },
+  {
+    "country": "Germany",
+    "areaCode": "49"
+  },
+  {
+    "country": "East Timor",
+    "areaCode": "670"
+  },
+  {
+    "country": "Togo",
+    "areaCode": "228"
+  },
+  {
+    "country": "Dominica",
+    "areaCode": "1890"
+  },
+  {
+    "country": "The Republic of Dominica",
+    "areaCode": "1809"
+  },
+  {
+    "country": "Russia",
+    "areaCode": "7"
+  },
+  {
+    "country": "Ecuador",
+    "areaCode": "593"
+  },
+  {
+    "country": "Eritrea",
+    "areaCode": "291"
+  },
+  {
+    "country": "France",
+    "areaCode": "33"
+  },
+  {
+    "country": "Faroe Islands",
+    "areaCode": "298"
+  },
+  {
+    "country": "French polynesia",
+    "areaCode": "689"
+  },
+  {
+    "country": "French guiana",
+    "areaCode": "240"
+  },
+  {
+    "country": "The French Southern territories",
+    "areaCode": "33"
+  },
+  {
+    "country": "The Vatican",
+    "areaCode": "379"
+  },
+  {
+    "country": "Philippines",
+    "areaCode": "63"
+  },
+  {
+    "country": "Fiji",
+    "areaCode": "679"
+  },
+  {
+    "country": "Finland",
+    "areaCode": "358"
+  },
+  {
+    "country": "Cape Verde",
+    "areaCode": "238"
+  },
+  {
+    "country": "The Frank islands",
+    "areaCode": "49"
+  },
+  {
+    "country": "Gambia",
+    "areaCode": "220"
+  },
+  {
+    "country": "Congo",
+    "areaCode": "242"
+  },
+  {
+    "country": "The Democratic Republic of Congo",
+    "areaCode": "242"
+  },
+  {
+    "country": "Columbia",
+    "areaCode": "001"
+  },
+  {
+    "country": "Costa Rica",
+    "areaCode": "506"
+  },
+  {
+    "country": "Guernsey",
+    "areaCode": "502"
+  },
+  {
+    "country": "Grenada",
+    "areaCode": "1809"
+  },
+  {
+    "country": "Greenland",
+    "areaCode": "45"
+  },
+  {
+    "country": "Cuba",
+    "areaCode": "53"
+  },
+  {
+    "country": "Guadeloupe",
+    "areaCode": "53"
+  },
+  {
+    "country": "Guam",
+    "areaCode": "1671"
+  },
+  {
+    "country": "Guyana",
+    "areaCode": "592"
+  },
+  {
+    "country": "Kazakhstan",
+    "areaCode": "007"
+  },
+  {
+    "country": "Haiti",
+    "areaCode": "509"
+  },
+  {
+    "country": "Korea",
+    "areaCode": "82"
+  },
+  {
+    "country": "Holland",
+    "areaCode": "31"
+  },
+  {
+    "country": "The Netherlands antilles",
+    "areaCode": "599"
+  },
+  {
+    "country": "Hird and the Macdonald islands",
+    "areaCode": ""
+  },
+  {
+    "country": "Honduras",
+    "areaCode": "504"
+  },
+  {
+    "country": "Kiribati",
+    "areaCode": "686"
+  },
+  {
+    "country": "Djibouti",
+    "areaCode": "253"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "areaCode": "331"
+  },
+  {
+    "country": "Guinea",
+    "areaCode": "224"
+  },
+  {
+    "country": "Guinea Bissau",
+    "areaCode": "245"
+  },
+  {
+    "country": "Canada",
+    "areaCode": "001"
+  },
+  {
+    "country": "Garner",
+    "areaCode": ""
+  },
+  {
+    "country": "Gabon",
+    "areaCode": "241"
+  },
+  {
+    "country": "Kampuchea",
+    "areaCode": "855"
+  },
+  {
+    "country": "Czech Republic",
+    "areaCode": "420"
+  },
+  {
+    "country": "Zimbabwe",
+    "areaCode": "263"
+  },
+  {
+    "country": "Cameroon",
+    "areaCode": "237"
+  },
+  {
+    "country": "Qatar",
+    "areaCode": "974"
+  },
+  {
+    "country": "The Cayman Islands",
+    "areaCode": "1345"
+  },
+  {
+    "country": "The Cocos islands",
+    "areaCode": "61"
+  },
+  {
+    "country": "Comoros",
+    "areaCode": "269"
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "areaCode": "225"
+  },
+  {
+    "country": "Kuwait",
+    "areaCode": "965"
+  },
+  {
+    "country": "Croatia",
+    "areaCode": "385"
+  },
+  {
+    "country": "Kenya",
+    "areaCode": "254"
+  },
+  {
+    "country": "The Cook islands",
+    "areaCode": "682"
+  },
+  {
+    "country": "Latvia",
+    "areaCode": "371"
+  },
+  {
+    "country": "Lesotho",
+    "areaCode": "266"
+  },
+  {
+    "country": "Laos",
+    "areaCode": "856"
+  },
+  {
+    "country": "Lebanon",
+    "areaCode": "961"
+  },
+  {
+    "country": "Liberia",
+    "areaCode": "231"
+  },
+  {
+    "country": "Libya",
+    "areaCode": "218"
+  },
+  {
+    "country": "Lithuania",
+    "areaCode": "370"
+  },
+  {
+    "country": "Liechtenstein",
+    "areaCode": "423"
+  },
+  {
+    "country": "Reunion",
+    "areaCode": "262"
+  },
+  {
+    "country": "Luxemburg",
+    "areaCode": "352"
+  },
+  {
+    "country": "Rwanda",
+    "areaCode": "250"
+  },
+  {
+    "country": "Romania",
+    "areaCode": "40"
+  },
+  {
+    "country": "Madagascar",
+    "areaCode": "261"
+  },
+  {
+    "country": "Maldives",
+    "areaCode": "960"
+  },
+  {
+    "country": "Malta",
+    "areaCode": "356"
+  },
+  {
+    "country": "Malawi",
+    "areaCode": "265"
+  },
+  {
+    "country": "Malaysia",
+    "areaCode": "60"
+  },
+  {
+    "country": "Mali",
+    "areaCode": "223"
+  },
+  {
+    "country": "Macedonian",
+    "areaCode": ""
+  },
+  {
+    "country": "The Marshall islands",
+    "areaCode": "692"
+  },
+  {
+    "country": "Martinique",
+    "areaCode": "596"
+  },
+  {
+    "country": "Mayotte",
+    "areaCode": "262"
+  },
+  {
+    "country": "Man island",
+    "areaCode": ""
+  },
+  {
+    "country": "Mauritius",
+    "areaCode": "230"
+  },
+  {
+    "country": "Mauritania",
+    "areaCode": "222"
+  },
+  {
+    "country": "The United States",
+    "areaCode": "001"
+  },
+  {
+    "country": "American Samoa",
+    "areaCode": "685"
+  },
+  {
+    "country": "The islands",
+    "areaCode": ""
+  },
+  {
+    "country": "Mongolia",
+    "areaCode": "976"
+  },
+  {
+    "country": "Montserrat",
+    "areaCode": "1664"
+  },
+  {
+    "country": "Bangladesh",
+    "areaCode": "880"
+  },
+  {
+    "country": "Micronesia",
+    "areaCode": "691"
+  },
+  {
+    "country": "Peru",
+    "areaCode": "51"
+  },
+  {
+    "country": "Burma",
+    "areaCode": "95"
+  },
+  {
+    "country": "Moldova",
+    "areaCode": "373"
+  },
+  {
+    "country": "Morocco",
+    "areaCode": "212"
+  },
+  {
+    "country": "Monaco",
+    "areaCode": "377"
+  },
+  {
+    "country": "Mozambique",
+    "areaCode": "258"
+  },
+  {
+    "country": "Mexico",
+    "areaCode": "52"
+  },
+  {
+    "country": "Namibia",
+    "areaCode": "264"
+  },
+  {
+    "country": "South Africa",
+    "areaCode": "27"
+  },
+  {
+    "country": "Antarctica",
+    "areaCode": "672"
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "areaCode": ""
+  },
+  {
+    "country": "Nauru",
+    "areaCode": "674"
+  },
+  {
+    "country": "Nepal",
+    "areaCode": "977"
+  },
+  {
+    "country": "Nicaragua",
+    "areaCode": "505"
+  },
+  {
+    "country": "Niger",
+    "areaCode": "227"
+  },
+  {
+    "country": "Nigeria",
+    "areaCode": "234"
+  },
+  {
+    "country": "Niue",
+    "areaCode": "683"
+  },
+  {
+    "country": "Norway",
+    "areaCode": "47"
+  },
+  {
+    "country": "Norfolk",
+    "areaCode": "6723"
+  },
+  {
+    "country": "Palau islands",
+    "areaCode": "680"
+  },
+  {
+    "country": "Pitt Kaine",
+    "areaCode": ""
+  },
+  {
+    "country": "Portuguese",
+    "areaCode": "80"
+  },
+  {
+    "country": "Georgia",
+    "areaCode": "995"
+  },
+  {
+    "country": "Japan",
+    "areaCode": "81"
+  },
+  {
+    "country": "Sweden",
+    "areaCode": "46"
+  },
+  {
+    "country": "Switzerland",
+    "areaCode": "41"
+  },
+  {
+    "country": "Salvatore",
+    "areaCode": ""
+  },
+  {
+    "country": "Samoa",
+    "areaCode": "684"
+  },
+  {
+    "country": "Serbia Montenegro",
+    "areaCode": "381"
+  },
+  {
+    "country": "Sierra Leone",
+    "areaCode": "232"
+  },
+  {
+    "country": "Senegal",
+    "areaCode": "221"
+  },
+  {
+    "country": "Cyprus",
+    "areaCode": "357"
+  },
+  {
+    "country": "Seychelles",
+    "areaCode": "248"
+  },
+  {
+    "country": "Saudi Arabia",
+    "areaCode": "966"
+  },
+  {
+    "country": "Christmas Island",
+    "areaCode": "618"
+  },
+  {
+    "country": "Sao Tome and principe",
+    "areaCode": "239"
+  },
+  {
+    "country": "St. helena",
+    "areaCode": "290"
+  },
+  {
+    "country": "Saint Kitts and nevis",
+    "areaCode": "1784"
+  },
+  {
+    "country": "Lucia",
+    "areaCode": "1758"
+  },
+  {
+    "country": "San marino",
+    "areaCode": "378"
+  },
+  {
+    "country": "San Pierre and the micone islands",
+    "areaCode": ""
+  },
+  {
+    "country": "Saint Vincent and the grenadines",
+    "areaCode": "1784"
+  },
+  {
+    "country": "Sri Lanka",
+    "areaCode": "94"
+  },
+  {
+    "country": "Slovakia",
+    "areaCode": "421"
+  },
+  {
+    "country": "Slovenia",
+    "areaCode": "386"
+  },
+  {
+    "country": "J Val Ba and Martin",
+    "areaCode": ""
+  },
+  {
+    "country": "Swaziland",
+    "areaCode": "268"
+  },
+  {
+    "country": "Sultan",
+    "areaCode": ""
+  },
+  {
+    "country": "Suriname",
+    "areaCode": "597"
+  },
+  {
+    "country": "The Solomon islands",
+    "areaCode": "677"
+  },
+  {
+    "country": "Somalia",
+    "areaCode": "252"
+  },
+  {
+    "country": "Tajikistan",
+    "areaCode": "992"
+  },
+  {
+    "country": "Thailand",
+    "areaCode": "66"
+  },
+  {
+    "country": "Tanzania",
+    "areaCode": "255"
+  },
+  {
+    "country": "Tonga",
+    "areaCode": "676"
+  },
+  {
+    "country": "The Turks and Kaiketesi islands",
+    "areaCode": "1649"
+  },
+  {
+    "country": "Tristan Da khuon ha",
+    "areaCode": "992"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "areaCode": "1868"
+  },
+  {
+    "country": "Tunisia",
+    "areaCode": "216"
+  },
+  {
+    "country": "Tuvalu",
+    "areaCode": "688"
+  },
+  {
+    "country": "Turkey",
+    "areaCode": "90"
+  },
+  {
+    "country": "Turkmenistan",
+    "areaCode": "992"
+  },
+  {
+    "country": "Tokelau",
+    "areaCode": "690"
+  },
+  {
+    "country": "Wallis and futuna",
+    "areaCode": "681"
+  },
+  {
+    "country": "Vanuatu",
+    "areaCode": "678"
+  },
+  {
+    "country": "Guatemala",
+    "areaCode": "502"
+  },
+  {
+    "country": "The Virgin Islands American",
+    "areaCode": "1340"
+  },
+  {
+    "country": "The Virgin Islands the British",
+    "areaCode": "1284"
+  },
+  {
+    "country": "Venezuela",
+    "areaCode": "58"
+  },
+  {
+    "country": "Brunei",
+    "areaCode": "673"
+  },
+  {
+    "country": "Uganda",
+    "areaCode": "256"
+  },
+  {
+    "country": "Ukraine",
+    "areaCode": "380"
+  },
+  {
+    "country": "Uruguay",
+    "areaCode": "598"
+  },
+  {
+    "country": "Uzbekistan",
+    "areaCode": "233"
+  },
+  {
+    "country": "Spain",
+    "areaCode": "34"
+  },
+  {
+    "country": "Greece",
+    "areaCode": "30"
+  },
+  {
+    "country": "Singapore",
+    "areaCode": "65"
+  },
+  {
+    "country": "New Caledonia",
+    "areaCode": "687"
+  },
+  {
+    "country": "New Zealand",
+    "areaCode": "64"
+  },
+  {
+    "country": "Hungary",
+    "areaCode": "36"
+  },
+  {
+    "country": "Syria",
+    "areaCode": "963"
+  },
+  {
+    "country": "Jamaica",
+    "areaCode": "1876"
+  },
+  {
+    "country": "Armenia",
+    "areaCode": "374"
+  },
+  {
+    "country": "Yemen",
+    "areaCode": "967"
+  },
+  {
+    "country": "Iraq",
+    "areaCode": "964"
+  },
+  {
+    "country": "Iran",
+    "areaCode": "98"
+  },
+  {
+    "country": "Israel",
+    "areaCode": "972"
+  },
+  {
+    "country": "Italy",
+    "areaCode": "39"
+  },
+  {
+    "country": "India",
+    "areaCode": "91"
+  },
+  {
+    "country": "Indonesia",
+    "areaCode": "62"
+  },
+  {
+    "country": "Britain",
+    "areaCode": "44"
+  },
+  {
+    "country": "The British territory of the India ocean",
+    "areaCode": ""
+  },
+  {
+    "country": "Jordan",
+    "areaCode": "962"
+  },
+  {
+    "country": "Vietnam",
+    "areaCode": "84"
+  },
+  {
+    "country": "Zambia",
+    "areaCode": "260"
+  },
+  {
+    "country": "Jersey",
+    "areaCode": ""
+  },
+  {
+    "country": "Chad",
+    "areaCode": "235"
+  },
+  {
+    "country": "Gibraltar",
+    "areaCode": "350"
+  },
+  {
+    "country": "Chile",
+    "areaCode": "56"
+  },
+  {
+    "country": "The Central African Republic",
+    "areaCode": "236"
+  }
+]
