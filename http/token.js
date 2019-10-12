@@ -1,9 +1,12 @@
 var jwt = require('jsonwebtoken');
 
+// 用户信息
 var user = {
     username:'田李明'
 }
+// 生成token
+var token = jwt.sign(user,{
 
-var token = jwt.sign(user,'secret',{expiresIn:'2h'});
+});
 
 console.log(token)
